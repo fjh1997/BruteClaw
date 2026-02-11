@@ -23,12 +23,12 @@ pip install websockets cryptography
 
 ### 2. Input Files
 
-The script automatically looks for two text files in the root directory:
+The script automatically looks for two text  files in the root directory:
 
 | File | Format | Description |
 | --- | --- | --- |
-| **`targets.txt`** | `ws://host:port` or `wss://host:port` | One target per line. |
-| **`tokens.txt`** | `your_token_here` | One token per line to test against targets. |
+| **`targets.txt`** | `ws://host:port` or `wss://host:port` |Target Dictionary. One target per line. |
+| **`tokens.txt`** | `your_token_here` | Token Dictionary. One token per line to test against targets. |
 
 > **Note:** On the first run, the script will generate template files for you if they are missing.
 
