@@ -253,8 +253,9 @@ if __name__ == "__main__":
 
     if not os.path.exists("tokens.txt"):
         with open("tokens.txt", "w") as f:
-            f.write("c08f712bbc02505014beabcaffa473857f3845868366b771\n")
+            f.write("123456\n")
             print("[!] 已自动创建 tokens.txt 模板")
             # [!] Automatically created tokens.txt template
+
 
     asyncio.run(main())
