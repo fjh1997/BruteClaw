@@ -48,7 +48,7 @@ python3 brutecraw.py
 
 * ✅ **Success:** A valid combination was found and saved to `success_log.txt`.
 * ❌ **Failed:** The token was rejected by the gateway.
-* ⚠️ **Exception:** Network timeout or connection refusal.
+* ⚠️ **Exception:** Network timeout or connection refusal.The error https://x.x.x.x/ isn't a valid URI: scheme isn't ws or wss typically indicates a redirection issue. To resolve this, ensure you are using the secure protocol by changing the URL prefix from ws to wss.
 
 ---
 
