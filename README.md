@@ -6,6 +6,9 @@ An auditing script designed to identify instances of **OpenClaw** using default 
 
 This tool is developed for **authorized penetration testing** and **security research**. Many automated deployment scripts for OpenClaw use hardcoded or weak "placeholder" tokens. This script helps administrators identify if their instances are exposed. Use of this tool against targets without prior consent is illegal.
 
+<img width="1457" height="768" alt="image" src="https://github.com/user-attachments/assets/9a3a4718-6425-42e6-8fef-f83a10c9a30c" />
+
+
 ---
 
 
